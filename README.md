@@ -1,5 +1,5 @@
 ### Hi there 👋
-<!--
+<div>
 
 Here are some ideas to get you started:
 
@@ -11,7 +11,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+<div>
 <div>
 <a href="https://www.linkedin.com/in/julialyraramalho/">
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=julialyramalho&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
