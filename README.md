@@ -13,4 +13,5 @@ Here are some ideas to get you started:
 <a href="https://www.linkedin.com/in/julialyraramalho/">
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=julialyramalho&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=julialyramalho&layout=compact&langs_count=7&theme=dracula"/>
+  <a href="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white"/>
 </div>
