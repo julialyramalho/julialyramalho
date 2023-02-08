@@ -7,9 +7,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning sotware testing
 - 👯 I’m looking to collaborate on quality assurance and manual testing
 - 🤔 I’m looking for help with automation and programming
-- 💬 Ask me about ...
 - 📫 How to reach me: julialyramalho@hotmail.com
-- ⚡ Fun fact: ...
 <div>
 <div>
 <a href="https://www.linkedin.com/in/julialyraramalho/">
